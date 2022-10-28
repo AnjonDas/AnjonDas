@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AnjonDas)  
@@ -11,4 +10,4 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AnjonDas)  
 
-![Profile views](https://gpvc.arturio.dev/AnjonDas)  
+![Profile views](https://gpvc.arturio.dev/AnjonDas)   
